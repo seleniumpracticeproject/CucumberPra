@@ -5,4 +5,7 @@ Feature: Title of your feature
     Given The application url is launched
     When I enter username in the username field
     When I enter password in the password field
+    Then I enter Sushila sapkota
+    And I am able to clone the project
+    And I created the local Repo
     
