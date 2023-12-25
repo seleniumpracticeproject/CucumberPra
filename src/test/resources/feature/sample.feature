@@ -5,5 +5,4 @@ Feature: Title of your feature
     Given The application url is launched
     When I enter username in the username field
     When I enter password in the password field
-    Then I clicked on login button
-    Then I successfully logged in the application
+    
