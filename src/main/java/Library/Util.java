@@ -860,6 +860,6 @@ public static Date getCurrentTime() {
 					}
 			}
 
-	}
+	}all query is good
 
 }
